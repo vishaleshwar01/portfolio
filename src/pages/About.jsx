@@ -5,12 +5,12 @@ function About() {
     <div className="page-container">
       <div className="page-content">
         <h1 className="page-title">
-          <span className="title-glow">Vishal</span>
+          <span className="title-glow">Vishal Eshwar</span>
         </h1>
         <div className="content-section">
           <h2 className="section-title">About Me</h2>
           <p className="section-text">
-            Welcome to my digital realm. I'm a developer who combines technical expertise with a passion for gaming and innovation.
+          I'm a developer who combines technical expertise with a passion for gaming and innovation.
           </p>
           <p className="section-text">
             My journey in technology has been driven by curiosity and a love for solving complex problems. When I'm not coding, you'll find me exploring the latest games, analyzing game mechanics, and drawing inspiration from the gaming world.
