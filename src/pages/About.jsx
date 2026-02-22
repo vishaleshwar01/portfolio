@@ -5,7 +5,7 @@ function About() {
     <div className="page-container">
       <div className="page-content">
         <h1 className="page-title">
-          <span className="title-glow">Vishal Eshwar</span>
+          <span className="title-glow">Vishal</span>
         </h1>
         <div className="content-section">
           <h2 className="section-title">About Me</h2>
