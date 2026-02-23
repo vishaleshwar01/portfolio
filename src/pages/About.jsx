@@ -1,4 +1,4 @@
-import '../styles/Page.css'
+import "../styles/Page.css";
 
 function About() {
   return (
@@ -10,13 +10,18 @@ function About() {
         <div className="content-section">
           <h2 className="section-title">About Me</h2>
           <p className="section-text">
-            Front-End Developer with a solid foundation in React.js and native applications, HTML, CSS, and Bootstrap. Eager to contribute to real-world web projects, enhance user experiences, and grow through hands-on development and collaboration.
+            Front-End Developer with a solid foundation in React.js and native
+            applications, HTML, CSS, and Bootstrap. Eager to contribute to
+            real-world web projects, enhance user experiences, and grow through
+            hands-on development and collaboration.
           </p>
           <p className="section-text">
-             Graduated Bachelor of Engineering in Computer Science and Engineering at Jeppiaar Engineering College, Chennai.
+            Graduated from Jeppiaar Engineering College, Chennai with a
+            Bachelor of Engineering degree in Computer Science and Engineering.
           </p>
           <p className="section-text">
-            Interested in building modern front-end experiences and exploring AR and VR technologies to create immersive interfaces.
+            Interested in building modern front-end experiences and exploring AR
+            and VR technologies to create immersive interfaces.
           </p>
         </div>
         <div className="content-section">
@@ -35,8 +40,7 @@ function About() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default About
-
+export default About;

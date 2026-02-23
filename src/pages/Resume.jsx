@@ -20,7 +20,6 @@ function Resume() {
           <div className="resume-item">
             <h3 className="resume-item-title">Bachelor of Engineering in Computer Science and Engineering</h3>
             <p className="resume-item-subtitle">Jeppiaar Engineering College, Chennai | 2021 - 2025</p>
-          
            </div>
         </div>
         <div className="resume-section">
