@@ -10,21 +10,24 @@ function About() {
         <div className="content-section">
           <h2 className="section-title">About Me</h2>
           <p className="section-text">
-          I'm a developer who combines technical expertise with a passion for gaming and innovation.
+            Aspiring Front-End Developer with a solid foundation in React.js and native applications, HTML, CSS, and Bootstrap. Eager to contribute to real-world web projects, enhance user experiences, and grow through hands-on development and collaboration.
           </p>
           <p className="section-text">
-            My journey in technology has been driven by curiosity and a love for solving complex problems. When I'm not coding, you'll find me exploring the latest games, analyzing game mechanics, and drawing inspiration from the gaming world.
+            Currently pursuing Bachelor of Engineering in Computer Science and Engineering at Jeppiaar Engineering College, Chennai. Passionate about creating responsive and interactive user interfaces while continuously learning and improving my development skills.
           </p>
         </div>
         <div className="content-section">
           <h2 className="section-title">Skills</h2>
           <div className="skills-grid">
-            <div className="skill-card">React</div>
+            <div className="skill-card">React.js</div>
             <div className="skill-card">JavaScript</div>
-            <div className="skill-card">Node.js</div>
-            <div className="skill-card">Python</div>
+            <div className="skill-card">C#</div>
+            <div className="skill-card">Java</div>
             <div className="skill-card">HTML/CSS</div>
+            <div className="skill-card">Bootstrap</div>
+            <div className="skill-card">Unity</div>
             <div className="skill-card">Git</div>
+            <div className="skill-card">SQL</div>
           </div>
         </div>
       </div>

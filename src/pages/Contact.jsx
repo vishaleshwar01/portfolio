@@ -38,15 +38,15 @@ function Contact() {
             <div className="contact-details">
               <div className="contact-item">
                 <span className="contact-label">Email:</span>
-                <span className="contact-value">vishal.eshwar@example.com</span>
+                <span className="contact-value">vinayakvishal02@gmail.com</span>
               </div>
               <div className="contact-item">
-                <span className="contact-label">LinkedIn:</span>
-                <span className="contact-value">linkedin.com/in/vishaleshwar</span>
+                <span className="contact-label">Phone:</span>
+                <span className="contact-value">+91 6385651445</span>
               </div>
               <div className="contact-item">
-                <span className="contact-label">GitHub:</span>
-                <span className="contact-value">github.com/vishaleshwar</span>
+                <span className="contact-label">Location:</span>
+                <span className="contact-value">Sholinganallur, Chennai-600119</span>
               </div>
             </div>
           </div>

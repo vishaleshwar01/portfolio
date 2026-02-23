@@ -3,22 +3,11 @@ import '../styles/Page.css'
 function WorkExperience() {
   const experiences = [
     {
-      title: 'Software Developer',
-      company: 'Tech Company',
-      period: '2022 - Present',
-      description: 'Developed and maintained web applications using React and Node.js. Collaborated with cross-functional teams to deliver high-quality software solutions.'
-    },
-    {
-      title: 'Junior Developer',
-      company: 'Startup Inc',
-      period: '2020 - 2022',
-      description: 'Built responsive web interfaces and implemented RESTful APIs. Participated in code reviews and agile development processes.'
-    },
-    {
       title: 'Intern',
-      company: 'Dev Studio',
-      period: '2019 - 2020',
-      description: 'Assisted in frontend development tasks and learned industry best practices. Contributed to team projects and gained hands-on experience.'
+      company: 'E16 AI XR Technology Pvt Ltd',
+      location: 'Chennai, India',
+      period: 'Nov 2023 - Dec 2023',
+      description: 'Contributed to XR application development using Unity and C#, improving UI responsiveness and debugging performance issues. Collaborated on design discussions and learned structured development workflows in agile team settings.'
     }
   ]
 
@@ -36,6 +25,7 @@ function WorkExperience() {
                 <span className="experience-period">{exp.period}</span>
               </div>
               <h3 className="experience-company">{exp.company}</h3>
+              {exp.location && <p className="experience-location">{exp.location}</p>}
               <p className="experience-description">{exp.description}</p>
             </div>
           ))}
