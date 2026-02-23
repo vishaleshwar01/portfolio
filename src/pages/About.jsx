@@ -13,7 +13,7 @@ function About() {
             Front-End Developer with a solid foundation in React.js and native applications, HTML, CSS, and Bootstrap. Eager to contribute to real-world web projects, enhance user experiences, and grow through hands-on development and collaboration.
           </p>
           <p className="section-text">
-            Graduated Bachelor of Engineering in Computer Science and Engineering at Jeppiaar Engineering College, Chennai.
+             Graduated Bachelor of Engineering in Computer Science and Engineering at Jeppiaar Engineering College, Chennai.
           </p>
           <p className="section-text">
             Interested in building modern front-end experiences and exploring AR and VR technologies to create immersive interfaces.

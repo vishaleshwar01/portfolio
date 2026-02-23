@@ -76,7 +76,7 @@ function Resume() {
               Python with Django - Udemy<br/>
               MongoDB Node.js Developer Path - SmartBridge<br/>
               Journey to Cloud: Envisioning Your Solution - IBM SkillBuild<br/>
-              React development - ACTE Technologies (Under learning)
+              React development - ACTE Technologies. 
             </p>
           </div>
         </div>
