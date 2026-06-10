@@ -65,6 +65,12 @@ function Resume() {
             <h3 className="resume-item-title">AR Image Tracking Application</h3>
             <p className="resume-item-description">Developed an AR application in Unity and C# that detects images in real-world environments and overlays 3D models dynamically.</p>
           </div>
+          <div className="resume-item">
+  <h3 className="resume-item-title">CineMind AI</h3>
+  <p className="resume-item-description">
+    Developed an AI-powered movie discovery application using React.js, TMDB API, and OpenRouter AI, featuring real-time movie search, personalized recommendations, and interactive movie detail views.
+  </p>
+</div>
         </div>
         <div className="resume-section">
           <h2 className="section-title">Certifications</h2>
